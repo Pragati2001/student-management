@@ -1,6 +1,7 @@
 # student-management
 Tech Stack:
 
-Backend : springboot
-Frontend: reactjs
+**Backend : springboot\n
+Frontend: reactjs\n
 Database: MongoDB
+**
